@@ -1,0 +1,2 @@
+# yirmiikimart
+bu repositoriyi oluşturdum
